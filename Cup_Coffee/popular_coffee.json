@@ -18,7 +18,8 @@
       "Milk",
       "Milk Foam"
     ],
-    "deliveredTime": 10
+    "deliveredTime": 10,
+    "location": "StarBox"
   },
   {
     "id": 2,
@@ -39,7 +40,8 @@
       "Milk",
       "Milk Foam"
     ],
-    "deliveredTime": 8
+    "deliveredTime": 8,
+    "location": "GreenCafe"
   },
   {
     "id": 3,
@@ -58,7 +60,8 @@
     "ingredients": [
       "Coffee"
     ],
-    "deliveredTime": 5
+    "deliveredTime": 5,
+    "location": "LCaffe"
   },
   {
     "id": 4,
@@ -80,7 +83,8 @@
       "Milk",
       "Heavy cream"
     ],
-    "deliveredTime": 13
+    "deliveredTime": 13,
+    "location": "StarBox"
   },
   {
     "id": 5,
@@ -100,7 +104,8 @@
       "Coffee",
       "Milk Foam"
     ],
-    "deliveredTime": 15
+    "deliveredTime": 15,
+    "location": "GoodTime"
   },
   {
     "id": 6,
@@ -121,6 +126,7 @@
       "Milk",
       "Espresso"
     ],
-    "deliveredTime": 12
+    "deliveredTime": 12,
+    "location": "donatCafe"
   }
 ]
