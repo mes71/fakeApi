@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "Coffee Lab",
+    "images": [
+      "Cup_Coffee/assets/images/coffee_shop_01.png",
+      "Cup_Coffee/assets/images/coffee_shop_02.png",
+      "Cup_Coffee/assets/images/coffee_shop_03.png"
+    ],
+    "rating": 4.6,
+    "rating_count": 262,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "distance": 0.8,
+    "latitude": 52.512642076728625,
+    "longitude ": 13.411307471096057
+  },
+  {
+    "id": 2,
+    "title": "Café Re",
+    "images": [
+      "Cup_Coffee/assets/images/coffee_shop_04.png",
+      "Cup_Coffee/assets/images/coffee_shop_05.png",
+      "Cup_Coffee/assets/images/coffee_shop_06.png"
+    ],
+    "rating": 4.6,
+    "rating_count": 262,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "distance": 1.3,
+    "latitude": 52.51325583823336,
+    "longitude ": 13.410910504121201
+  },
+  {
+    "id": 3,
+    "title": "The Coffee Shop",
+    "images": [
+      "Cup_Coffee/assets/images/coffee_shop_07.png",
+      "Cup_Coffee/assets/images/coffee_shop_08.png",
+      "Cup_Coffee/assets/images/coffee_shop_09.png"
+    ],
+    "rating": 4.6,
+    "rating_count": 76,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "distance": 2.4,
+    "latitude": 52.51305701829737,
+    "longitude ": 13.397397952606664
+  },
+  {
+    "id": 4,
+    "title": "PAX Coffee",
+    "images": [
+      "Cup_Coffee/assets/images/coffee_shop_10.png",
+      "Cup_Coffee/assets/images/coffee_shop_11.png",
+      "Cup_Coffee/assets/images/coffee_shop_12.png"
+    ],
+    "rating": 4.5,
+    "rating_count": 204,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "distance": 4.8,
+    "latitude": 52.51421678081785,
+    "longitude ": 13.397163259522937
+  },
+  {
+    "id": 5,
+    "title": "the coffee shop",
+    "images": [
+      "Cup_Coffee/assets/images/coffee_shop_13.png",
+      "Cup_Coffee/assets/images/coffee_shop_14.png"
+    ],
+    "rating": 4.3,
+    "rating_count": 27,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "distance": 5.1,
+    "latitude": 52.51557483121827,
+    "longitude ": 13.39819322764276
+  }
+]
