@@ -1,0 +1,86 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 1,
+      "name": "محصول تست",
+      "model": "مدل تستی",
+      "discountPercentage": 30.0,
+      "discountedPrice": 1150000,
+      "originalPrice": 1650000,
+      "image": "digikala/assets/hot_sale/p1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "محصول تست",
+      "model": "مدل تستی",
+      "discountPercentage": 15.0,
+      "discountedPrice": 1150000,
+      "originalPrice": 1650000,
+      "image": "digikala/assets/hot_sale/p2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "محصول تست",
+      "model": "مدل تستی",
+      "discountPercentage": 35.0,
+      "discountedPrice": 1150000,
+      "originalPrice": 1650000,
+      "image": "digikala/assets/hot_sale/p3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "محصول تست",
+      "model": "مدل تستی",
+      "discountPercentage": 30.0,
+      "discountedPrice": 1150000,
+      "originalPrice": 1650000,
+      "image": "digikala/assets/hot_sale/p4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "محصول تست",
+      "model": "مدل تستی",
+      "discountPercentage": 30.0,
+      "discountedPrice": 1150000,
+      "originalPrice": 1650000,
+      "image": "digikala/assets/hot_sale/p5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "محصول تست",
+      "model": "مدل تستی",
+      "discountPercentage": 30.0,
+      "discountedPrice": 1150000,
+      "originalPrice": 1650000,
+      "image": "digikala/assets/hot_sale/p6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "محصول تست",
+      "model": "مدل تستی",
+      "discountPercentage": 30.0,
+      "discountedPrice": 1150000,
+      "originalPrice": 1650000,
+      "image": "digikala/assets/hot_sale/p7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "محصول تست",
+      "model": "مدل تستی",
+      "discountPercentage": 30.0,
+      "discountedPrice": 1150000,
+      "originalPrice": 1650000,
+      "image": "digikala/assets/hot_sale/p8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "محصول تست",
+      "model": "مدل تستی",
+      "discountPercentage": 30.0,
+      "discountedPrice": 1150000,
+      "originalPrice": 1650000,
+      "image": "digikala/assets/hot_sale/p9.jpg"
+    }
+  ]
+}
