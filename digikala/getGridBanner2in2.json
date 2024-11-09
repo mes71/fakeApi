@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 1,
+      "image": "digikala/assets/grid2in2/bg_01.jpg"
+
+    },
+    {
+      "id": 2,
+      "image": "digikala/assets/grid2in2/bg_02.jpg"
+    },
+    {
+      "id": 3,
+      "image": "digikala/assets/grid2in2/bg_03.jpg"
+    },
+    {
+      "id": 4,
+      "image": "digikala/assets/grid2in2/bg_04.jpg"
+    }
+  ]
+}
