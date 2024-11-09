@@ -50,6 +50,11 @@
       "id": 10,
       "image": "digikala/assets/banner/banner10.gif"
 
+    },
+    {
+      "id": 11,
+      "image": "digikala/assets/banner/banner11.gif"
+
     }
   ]
 }
