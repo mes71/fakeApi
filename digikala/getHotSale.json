@@ -81,6 +81,15 @@
       "discountedPrice": 1150000,
       "originalPrice": 1650000,
       "image": "digikala/assets/hot_sale/p9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "محصول تست",
+      "model": "مدل تستی",
+      "discountPercentage": 30.0,
+      "discountedPrice": 1150000,
+      "originalPrice": 1650000,
+      "image": "digikala/assets/hot_sale/p10.jpg"
     }
   ]
 }
